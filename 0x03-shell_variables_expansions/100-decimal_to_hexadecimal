@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((hex(DECIMAL)
+printf "%x\n" $DECIMAL
